@@ -59,6 +59,10 @@ pip install -r requirements.txt
 
 🌐 Deploy using Streamlit       
 streamlit run streamlit_app.py
+
+The app opens automatically in your browser at:  
+
+[FRAUD PREDICTOR](https://siva9876-tech-creditcard-fraud-detection-app-q1sh60.streamlit.app/) click to open
 ## 🧑‍💻 Author
 SIVA SHANKAR MAMIDISETTI    
 Data Science Enthusiast
