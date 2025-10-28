@@ -35,6 +35,7 @@ This project aims to detect fraudulent transactions using a Random Forest Classi
 • Confusion Matrix  
 • Classification Report
 ## 🏗️ System Architecture
+<img width="354" height="142" alt="images" src="https://github.com/user-attachments/assets/917859bd-782e-48c9-b426-07313e1877b4" />
 
 
 ## 🧩 Future Improvements
